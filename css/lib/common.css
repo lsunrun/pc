@@ -50,10 +50,7 @@ body {
 
 /* 基本样式 */
 
-.modal-open {
-  position: fixed;
-  height: 100%;
-}
+.modal-open {position: fixed;height: 100%;}
 
 .m-mask {
   position: fixed;
