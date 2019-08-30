@@ -17,11 +17,7 @@ table{border-collapse:collapse;border-spacing:0;}
 .clearfix {*zoom: 1;}
 input::-ms-clear,input::-ms-reveal {display: none;}
 
-html {
-  overflow-y: scroll;
-  font-size: 100px;
-  height: 100%;
-}
+html { overflow-y: scroll; font-size: 100px; height: 100%; }
 body {
   height: 100%;
   background: #fff;
